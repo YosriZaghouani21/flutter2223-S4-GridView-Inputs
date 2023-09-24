@@ -4,7 +4,7 @@ A new Flutter project , a simple online games shop in the purpose of understandi
 
 
 ## What i Learned 
-* render a Gallery-like design showing rows of Images.
+* Rendering a Gallery-like design showing rows of Images.
 * Acessing Every specific unique game and showcasing it's data
 * A better understanding of Graphical control elemets in a tabular form and their types 
 
