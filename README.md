@@ -1,6 +1,12 @@
-# myapp
+# Flutter-GridView Inputs
 
-A new Flutter project.
+A new Flutter project , a simple online games shop in the purpose of understanding how classes are used to build UIs
+
+
+## What i Learned 
+* render a Gallery-like design showing rows of Images.
+* Acessing Every specific unique game and showcasing it's data
+* A better understanding of Graphical control elemets in a tabular form and their types 
 
 ## Getting Started
 
@@ -14,3 +20,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
